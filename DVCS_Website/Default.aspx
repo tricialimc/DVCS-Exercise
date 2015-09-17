@@ -37,5 +37,6 @@
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
             </p>
         </div>
+        <p> This is a newly added paragraph sentence for the exercise.</p>
     </div>
 </asp:Content>
